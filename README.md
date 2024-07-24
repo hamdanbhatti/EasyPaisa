@@ -1,14 +1,14 @@
 # EasyPaisa Program
-EasyPaisa is a command-line interface (CLI) application that simulates a digital wallet and financial services platform. Built with TypeScript, this program offers users a range of banking and financial operations in an interactive and user-friendly manner.
+EasyPaisa is a command-line interface (CLI) application that simulates a digital wallet and financial services platform. Built with TypeScript, this program offers users a range of banking and financial operations in an interactive and user-friendly manner.<br>
 
 # Features
-Check Balance: View your current account balance.
-Transfer Money: Send money to other users.
-Receive Money: Accept incoming transfers from other users.
-Bill Payments: Pay various bills directly from your account.
-Easy Load Bundles: Purchase mobile data bundles or airtime.
-Cash Back: Receive cash back rewards.
-Savings: Set aside money in a savings account.
+Check Balance: View your current account balance.<br>
+Transfer Money: Send money to other users.<br>
+Receive Money: Accept incoming transfers from other users.<br>
+Bill Payments: Pay various bills directly from your account.<br>
+Easy Load Bundles: Purchase mobile data bundles or airtime.<br>
+Cash Back: Receive cash back rewards.<br>
+Savings: Set aside money in a savings account.<br>
 # Technical Details
 Written in TypeScript
 Uses inquirer for interactive command-line prompts
